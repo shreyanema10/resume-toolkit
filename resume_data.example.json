@@ -1,0 +1,96 @@
+{
+  "name": "YOUR NAME",
+  "title": "Your Title · Specialization · Domain",
+  "contact": "your-phone | your-email | linkedin.com/in/your-profile",
+  "summary": "Three-sentence summary. Sentence one: years of experience and core domain. Sentence two: specialization and quantified impact (e.g. $Xm savings, X% growth). Sentence three: technical fluency and cross-functional leadership.",
+  "experience": [
+    {
+      "company": "Company Name",
+      "location": "City, State",
+      "start": "Mon YYYY",
+      "end": "Present",
+      "title": "Your Job Title",
+      "bullets": [
+        {
+          "bold": "Bold opener that states ownership and scope",
+          "text": " — supporting detail with metrics and outcomes."
+        },
+        {
+          "bold": "Second bullet bold opener",
+          "text": " — detail with quantified result."
+        },
+        {
+          "bold": "Third bullet bold opener",
+          "text": " — detail with quantified result."
+        },
+        {
+          "bold": "Fourth bullet bold opener",
+          "text": " — detail with quantified result."
+        }
+      ]
+    },
+    {
+      "company": "Company Name",
+      "location": "City, State",
+      "start": "Mon YYYY",
+      "end": "Mon YYYY",
+      "title": "Previous Job Title",
+      "bullets": [
+        {
+          "bold": "First bullet bold opener",
+          "text": " — detail with quantified result."
+        },
+        {
+          "bold": "Second bullet bold opener",
+          "text": " — detail with quantified result."
+        },
+        {
+          "bold": "Third bullet bold opener",
+          "text": " — detail with quantified result."
+        }
+      ]
+    },
+    {
+      "company": "Company Name",
+      "location": "City, State",
+      "start": "Mon YYYY",
+      "end": "Mon YYYY",
+      "title": "Earlier Job Title",
+      "bullets": [
+        {
+          "bold": "First bullet bold opener",
+          "text": " — detail with quantified result."
+        },
+        {
+          "bold": "Second bullet bold opener",
+          "text": " — detail with quantified result."
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Category 1",
+      "content": "Skill A, Skill B, Skill C, Skill D"
+    },
+    {
+      "category": "Category 2",
+      "content": "Skill A, Skill B, Skill C"
+    },
+    {
+      "category": "Category 3",
+      "content": "Skill A, Skill B, Skill C"
+    },
+    {
+      "category": "Category 4",
+      "content": "Skill A, Skill B, Skill C"
+    }
+  ],
+  "education": {
+    "school": "University Name, Country",
+    "dates": "YYYY – YYYY",
+    "degree": "Degree  ·  Major  ·  GPA X.X/X.X",
+    "courses": "Course A · Course B · Course C"
+  },
+  "leadership": "One-line leadership or extracurricular activity with scope and impact."
+}

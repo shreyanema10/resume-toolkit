@@ -1,0 +1,21 @@
+# Personal data — never commit
+resume_data.json
+Company Resume/
+job_search_results.md
+Shreya_Nema_Resume_AI_PM.pdf
+Shreya_Nema_Resume_AI_PM.docx
+
+# ResumeEditor runtime files
+ResumeEditor/.env
+ResumeEditor/venv/
+ResumeEditor/judge_output.json
+ResumeEditor/__pycache__/
+ResumeEditor/*.pyc
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
