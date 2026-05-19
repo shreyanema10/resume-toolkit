@@ -10,7 +10,7 @@ Usage:
 
 Reads:  resume_data.json  (in same directory)
 Output: Company Resume/<Company>/<filename>.pdf + .docx
-        If no company, outputs to LeaveHiLabs/ directory as base files.
+        If no company, outputs to JobSwitch/ directory as base files.
 """
 
 import json

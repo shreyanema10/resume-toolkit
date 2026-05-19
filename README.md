@@ -7,7 +7,7 @@ A two-part toolkit for generating and improving a structured resume using the Cl
 ## Structure
 
 ```
-LeaveHiLabs/
+JobSwitch/
 ├── resume_data.example.json   # schema template — copy to resume_data.json and fill in
 ├── generate_resume.py         # generates PDF + DOCX from resume_data.json
 ├── ResumeEditor/
@@ -25,7 +25,7 @@ LeaveHiLabs/
 
 ```bash
 # 1. Clone and enter the project
-cd LeaveHiLabs
+cd JobSwitch
 
 # 2. Copy and fill in your resume data
 cp resume_data.example.json resume_data.json
@@ -51,9 +51,9 @@ python3 smoke_test.py           # should print: SDK working.
 ## Generating a resume
 
 ```bash
-cd LeaveHiLabs
+cd JobSwitch
 
-# Base resume (saves to LeaveHiLabs/)
+# Base resume (saves to JobSwitch/)
 python3 generate_resume.py
 
 # Company-specific (saves to Company Resume/<CompanyName>/)
